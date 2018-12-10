@@ -8,6 +8,7 @@ Here are the other project [https://github.com/vreality64/react-native-camera-ro
 ### Demo
 
 ![cpu profiling with xcode](https://user-images.githubusercontent.com/886706/49022267-c9c20b00-f1d7-11e8-8ee2-8366e6e27216.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-image-crop-picker-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-image-crop-picker-example?ref=badge_shield)
 
 ### environment
 
@@ -41,3 +42,5 @@ You should follow [install step in react-native-image-crop-picker](https://githu
 ### License
 
 MIT License
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-image-crop-picker-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvreality64%2Freact-native-image-crop-picker-example?ref=badge_large)
